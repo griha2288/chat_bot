@@ -6,13 +6,19 @@
 ## пара скриншотов работы
 Здесь несколько скриншотов, чтобы продемонстрировать работу бота
 
+
 анекдот
+
 ![image](https://user-images.githubusercontent.com/122372519/235292264-f1332078-ca8e-45d8-b062-693a54745b1f.png)
 
 
+
 "мем"
+
 ![image](https://user-images.githubusercontent.com/122372519/235292277-404c90c1-4d77-4ef7-8a8d-b5d4ba83987a.png)
 
 
+
 последние новости
+
 ![image](https://user-images.githubusercontent.com/122372519/235292249-86a85233-25ef-48da-8263-ed10c013c614.png)
