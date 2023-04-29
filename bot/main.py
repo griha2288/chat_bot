@@ -79,7 +79,9 @@ class YLBotClient(discord.Client):
                 image = discord.File(memes[random.randint(0, 40)])
                 await message.channel.send(file=image)
                 return
-        if 'новост' in current_message:
+        if 'алё' in current_message or 'але' in current_message:
+            await message.channel.send('але')
+        elif 'новост' in current_message:
             await message.channel.send('все стабильно')
         elif '?' in current_message:
             await message.channel.send('не понял вопроса, я ток мемы с анекдотами кидаю')
