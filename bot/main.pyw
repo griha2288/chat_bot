@@ -8,7 +8,7 @@ handler = logging.StreamHandler()
 handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
 logger.addHandler(handler)
 
-TOKEN = "MTEwMTc2Mjg1NTEyNjE4ODEyMw.GISdye.w8Ny4p8C78aG5EY1m-uq4CNvJDzFOMnNo3lTWY"
+TOKEN = "my_token"
 
 fun_stories_file_path = 'data/fun_stories.txt'
 memes_path = 'data/memes/'
